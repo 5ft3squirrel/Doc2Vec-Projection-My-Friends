@@ -6,6 +6,7 @@ dictation.txt: a siri dictation version of audio file, the words are very inaccu
 dictation_text_files.py: adding each sentence from dictation.txt to a list called data[].<br />
 ART185AI_Final.py: used for training model.<br />
 ART185AI_Final2.py: used for outputing the w2v.csv file.<br />
+sketch_190319a.pde: used to visualize the w2v.csv file. The sentences are sliced to 22 characters, and each are color coded based on location.<br />
 ## Note & Findings
 Note: The "location" column in the csv file is manually entered.<br /><br />
 Finding 1: Results for the words "most_similar" to "library" are very different depending on the value of "size" parameter in the Doc2Vec function.<br />
