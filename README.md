@@ -1,6 +1,6 @@
 # Doc2Vec-Projection-My-Friends
 Recording conversations involving 5 people (friends, housemates, and I) from 5pm until 3am during a certain day. To explore whether Doc2Vec could display sentences based on the context in which they are spoken.
-During that time, the subject moved from bus stop to the library, and then to home.
+\nDuring that time, the subject moved from bus stop to the library, and then to home.
 ## List of Files
 dictation.txt: a siri dictation version of audio file, the words are very inaccurate and unrecognizable at times, which may be due to the dialects or accent of speakers? (one person with slight Spanish accent, one person with some use of AAVE, one person with Chinese accent)
 dictation_text_files.py: adding each sentence from dictation.txt to a list called data[].
