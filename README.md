@@ -23,4 +23,4 @@ Finding 2.1: Two sentences both mentioning "hot water" at start and end of the s
 ![alt text](https://github.com/5ft3squirrel/Doc2Vec-Projection-My-Friends/blob/master/Screen%20Shot%202019-03-20%20at%2012.02.27%20AM.png "Logo Title Text 1")<br /><br />
 Finding 3: All the words have y and z values that are identical. I am not sure if this is due to a mistake in preparing the model.<br />
 ## Future Work
-This is a fun experiment, but there was too little data and the visualization is very ugly. I plan on training gensim models on longer texts (Facebook and Instagram privacy policies; gay and trans personal ads on Reddit.) after finals (aka. after March 22nd).
+This is a fun experiment, but there was too little data and the visualization is very ugly. I plan on training gensim models on longer texts (Facebook vs. Instagram privacy policies; gay vs. lesbian personal ads on Reddit.) after finals (aka. after March 22nd).
